@@ -1,7 +1,7 @@
 package day0;
 
 public class First {
-    public static void main(String[] args) {
-        System.out.println("second file");
-    }
+    //TODO: Work on this tomorrow add some cool code
+
+
 }
